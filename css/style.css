@@ -1,0 +1,20 @@
+ ul {
+     list-style: none;
+     margin: 0 auto;
+     padding: 0;
+ }
+ .item{
+    margin-bottom: 50px;
+ }
+img {
+    opacity: 0;
+    transition: opacity 0.6s;
+    height: 200px;
+        background-color: black;
+display: block;
+    margin-bottom: 500px;
+    }
+
+img.loaded {
+    opacity: 1;
+}
